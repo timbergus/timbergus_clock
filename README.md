@@ -13,3 +13,7 @@ flutter run
 ```
 
 ![Timbergus Clock](assets/splash.png?raw=true "Timbergus Clock")
+
+## Acknowledgments
+
+MOV movie thanks to [EZGif.com](https://ezgif.com/gif-to-mov).
