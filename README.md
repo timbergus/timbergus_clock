@@ -12,4 +12,4 @@ flutter create .
 flutter run
 ```
 
-![Timbergus Clock](assets/splash.png?raw=true&s=500 "Timbergus Clock")
+![Timbergus Clock](assets/splash.png?raw=true "Timbergus Clock")
